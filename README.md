@@ -1,6 +1,6 @@
 # Cedmt-DomainCore
 
-**Cedmt-DomainCore** es una libreria de clases que contiene todas las clases y objetos de valor relevados en lo casos de uso.
+**Cedmt-DomainCore** es una libreria de clases que contiene todas las clases y objetos de valor, relevados en lo casos de uso.
 
 ## Características
 
