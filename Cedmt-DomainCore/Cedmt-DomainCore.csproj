@@ -8,7 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entites\ChannelEntity\ValueObjects\" />
+    <Folder Include="Channel\ValueObjects\ResultChannel\RecordsHash\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Cedeira.Essentials.NET">
+      <HintPath>..\..\Cedeira.Essentials.NET\Cedeira.Essentials.NET\bin\Debug\net8.0\Cedeira.Essentials.NET.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
